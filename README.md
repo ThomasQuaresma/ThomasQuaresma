@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Eu sou o Thomas 👋
 
-<!--
-**ThomasQuaresma/ThomasQuaresma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Sou um profissional focado em criar soluções eficientes, unindo a visão de negócios com a precisão técnica. 
 
-Here are some ideas to get you started:
+🎓 **O que estou fazendo agora:**  
+Atualmente estudando **Desenvolvimento de Software e Multiplataforma**. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Minha Stack de Tecnologias
+
+Essas são as linguagens e ferramentas que utilizo para construir meus projetos:
+
+🌐 **Front-end:** HTML 5 | CSS 3 | JavaScript  
+⚙️ **Back-end:** Python | PHP  
+
+---
+
+### 🚀 Meus Projetos
+
+
+Aqui estão alguns dos sistemas e sites que desenvolvi. Clique nos links para conferir:
+
+✨ **[Decorafest](https://decorafest.netlify.app)** - Catálogo digital e interativo voltado para o setor de decorações de festas.  
+🛠️ **[Precisa Elétrica](https://www.precisaeletrica.com.br)** - Site institucional e catálogo digital com foco no atendimento corporativo (B2B).  
+🪴 **[Catálogo Cerâmico 3D](https://ceramiccatalog.netlify.app)** - Plataforma web com visualização 3D interativa de vasos decorativos *(Em desenvolvimento)*.
+---
+
+### 📫 Como falar comigo
+
+Quer bater um papo sobre projetos, tecnologia ou parcerias? Fique à vontade para me chamar:
+
+📧 **E-mail:** [assisttecthomas@gmail.com](mailto:assisttecthomas@gmail.com)  
+📱 **WhatsApp:** [(19) 98245-4954](https://wa.me/5519982454954)  
+
+---
+⚡ *Transformando problemas do mundo real em código.*
