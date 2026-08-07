@@ -1,15 +1,12 @@
-# Olá! Eu sou o Thomas 👋
+Thomas Henrique 
 
-Bem-vindo ao meu GitHub! Sou um profissional focado em criar soluções eficientes, unindo a visão de negócios com a precisão técnica. 
+Técnico em Eletrotécnica
 
-🎓 **O que estou fazendo agora:**  
-Atualmente estudando **Desenvolvimento de Software e Multiplataforma**. 🚀
+Estudante **Desenvolvimento de Software e Multiplataforma**. 🚀
 
 ---
 
 ### 💻 Minha Stack de Tecnologias
-
-Essas são as linguagens e ferramentas que utilizo para construir meus projetos:
 
 🌐 **Front-end:** HTML 5 | CSS 3 | JavaScript  
 ⚙️ **Back-end:** Python | PHP  
