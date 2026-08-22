@@ -54,8 +54,16 @@ Aqui estão alguns dos sistemas e sites que desenvolvi. Clique nos links para co
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ThomasQuaresma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=ThomasQuaresma&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThomasQuaresma/ThomasQuaresma/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThomasQuaresma/ThomasQuaresma/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ThomasQuaresma/ThomasQuaresma/output/snake.svg">
+</picture>
 
 ---
+
 ### 📫 Como falar comigo
 
 Quer bater um papo sobre projetos, tecnologia ou parcerias? Fique à vontade para me chamar:
